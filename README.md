@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🚀 MyApp</h1>
+<h1>🚀 Azure Pipelines – Commands, Scripts & YAML</h1>
 <p><strong>Built with ❤️ by <a href="https://github.com/atulkamble">Atul Kamble</a></strong></p>
 
 <p>
@@ -35,10 +35,6 @@
 Below is a **clean, exam-ready + real-world** collection of **Azure Pipelines commands, scripts, and YAML codes** — organized into **Basic → Medium → Advanced** levels.
 
 This is aligned for **AZ-400**, interviews, and **production CI/CD** usage in **Azure DevOps Pipelines**.
-
----
-
-# 🚀 Azure Pipelines – Commands, Scripts & YAML
 
 ---
 
